@@ -6,3 +6,4 @@
 }
 
 console.log(studentDetail);
+//pages at https://github.com/Absaad01/absaad01.github.io/blob/main/js_task.js
